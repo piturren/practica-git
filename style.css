@@ -1,8 +1,12 @@
 body{
 
     background-color: blue;
-}
+}  
 
 h1{
     font-size: 3rem;
+}
+
+li{
+    list list-style: none;
 }
